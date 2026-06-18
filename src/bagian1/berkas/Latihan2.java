@@ -1,8 +1,6 @@
 package bagian1.berkas;
-
 import java.io.File;
 import java.io.IOException;
-
 public class Latihan2 {
     public static void main(String[] args) {
     File berkas = new File("data.txt");

@@ -10,6 +10,7 @@ public class LatihanBerkas {
         // =====================================================================
         // Soal 1: Cek keberadaan dan ukuran file laporan.txt
         // =====================================================================
+        
         System.out.println("--- Soal 1 ---");
         File fileLaporan = new File("laporan.txt");
         
