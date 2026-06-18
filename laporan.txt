@@ -1,0 +1,5 @@
+laporan.txt
+
+--- Soal 1 ---
+Berkas 'laporan.txt' ditemukan.
+Ukuran berkas: sekian byte
