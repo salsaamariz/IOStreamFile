@@ -1,0 +1,5 @@
+Laptop Asus;1.2E7;5
+Mouse Wireless;150000.0;20
+Beras 5Kg;75000.0;50
+Kemeja Flanel;120000.0;15
+Buku Tulis;5000.0;100
